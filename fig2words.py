@@ -142,9 +142,7 @@ def Fig2Words():
                  else:
                      if S_num2Wor(l[0]) != '':
                          print(S_num2Wor(l[0]))
-    #except:
-        #except 
-        #print('this function does not take any argument')
+    
 
 Fig2Words()
 
